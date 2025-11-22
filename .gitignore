@@ -1,0 +1,35 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+._*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# Node/NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Composer
+vendor/
+composer.lock
+
+# SVN (common in WP development)
+.svn/
+
+# Archives and builds
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+error_log
+debug.log
