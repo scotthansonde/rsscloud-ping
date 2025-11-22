@@ -66,4 +66,4 @@ https://github.com/scotthansonde/rsscloud-ping/issues
 
 ## License
 
-MIT License.
+GNU General Public License v2 or later.
