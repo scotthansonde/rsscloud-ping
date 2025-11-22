@@ -50,7 +50,7 @@ Edit the constants inside the plugin file:
 ## Support
 
 Open issues on GitHub:
-https://github.com/yourusername/rsscloud-external-ping/issues
+https://github.com/scotthansonde/rsscloud-ping/issues
 
 ### Supported
 
