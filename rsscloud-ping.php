@@ -16,7 +16,7 @@
 const RSSCLOUD_DOMAIN = 'rpc.rsscloud.io';
 const RSSCLOUD_PORT   = 5337;
 const RSSCLOUD_PLEASE = '/pleaseNotify';
-const RSSCLOUD_PING   = 'http://rpc.rsscloud.io:5337/ping';
+const RSSCLOUD_PING   = 'https://rpc.rsscloud.io/ping';
 
 // 1) Inject <cloud> element into the RSS2 feed for discovery.
 add_action('rss2_head', function () {
